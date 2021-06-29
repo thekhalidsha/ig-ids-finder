@@ -1,9 +1,9 @@
 # IG MULTI IDs Finder Tool
 
 ## TOOLS
-[x] INSTA ACCOUNT ID GRABBER
+[x] Insta Account ID Grabber
 
-[x] INSTA POST ID GRABBER
+[x] Insta Post ID Grabber
 
 
 
