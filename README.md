@@ -23,6 +23,16 @@ git clone https://github.com//cyberjeevi/ig-ids-finder
 php insta-id-finder.php
 ```
 
+### How to Register??
+[x] enter 'whoami' in Terminal.
+
+[x] Copy the Output and Send it to us.
+
+[x] Email: cyberjeevi@gmail.com
+
+[x] Contact on PhotoLooz WhatsApp for Immediate Activation
+
+
 #### Features
 [x] NO LOGIN NEEDED FOR USING THIS TOOL
 
