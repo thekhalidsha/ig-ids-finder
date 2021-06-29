@@ -1,4 +1,4 @@
-# Insta-ID-Finder
+# INSTAGRAM MULTIPLE ID Finder Tool
 
 Instagram Account ID Scraping without LOGIN!!
 
