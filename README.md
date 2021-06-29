@@ -23,8 +23,6 @@ git clone https://github.com//cyberjeevi/ig-ids-finder
 php insta-id-finder.php
 ```
 
-echo "\n";
-
 ## Features
 [x] NO LOGIN NEEDED FOR USING THIS TOOL
 
