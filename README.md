@@ -7,7 +7,7 @@
 
 
 
-#### FEEDBACKs
+### FEEDBACKs
 NEED ANY MORE INSTA IDs GRABBER???
 
 JUST SEND YOUR IDEAS AS FEEDBACK!!
@@ -23,7 +23,7 @@ git clone https://github.com//cyberjeevi/ig-ids-finder
 php insta-id-finder.php
 ```
 
-## Features
+#### Features
 [x] NO LOGIN NEEDED FOR USING THIS TOOL
 
 [x] MULTIPLE IDs GRABBING TOOL (ALL AT ONE PLACE)
