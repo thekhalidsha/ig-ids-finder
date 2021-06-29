@@ -7,7 +7,7 @@
 
 
 
-
+#### FEEDBACKs
 NEED ANY MORE INSTA IDs GRABBER???
 
 JUST SEND YOUR IDEAS AS FEEDBACK!!
@@ -37,7 +37,7 @@ php insta-id-finder.php
 
 
 
-
+#### Donate
 Who Don't Wish to get Donated to their Project!!
 
 If you wish to Donate ,
