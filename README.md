@@ -20,7 +20,7 @@ WE WILL UPDATE OUR TOOL WITH YOUR OPTIONS!!!
 Just clone & RUN the file
 ```
 git clone https://github.com//cyberjeevi/ig-ids-finder
-php insta-id-finder.php
+php ig-ids.php
 ```
 
 ### How to Register??
